@@ -1,0 +1,20 @@
+OUTLIERS = TP>4.5(mg/L)
+There are 10 outliers. 
+
+SALT RIVER NEAR ROOSELVELT, AZ
+    Lat = 33.6194949,Lon = -110.9215
+    7 observations (24, 20, 14, 11, 11, 9.2, 5.9 mg/L)
+    All from 2002 to 2003 (June-August)
+    PFOR = 73.918
+
+VIRGIN RIVER AT LITTLEFIELD, AZ
+    Lat = 36.8916437, Lon = -113.92441
+    2 observations (14.2, 4.68 mg/L)
+    2005, 2007 (August)
+    PFOR = 21.83, minimal others (the rest is desert -> google map)
+    
+GUNNISON RIVER, DOMINGUEZ ESCALANTE NATIONAL CONSERVATION AREA
+    Lat = 38.7574843, Lon = -108.2581329
+    1 observation (8.34 mg/L)
+    July 2013
+    PFOR = 98.94 (but google map shows nearly all desert....)
